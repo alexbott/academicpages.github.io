@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - alexbott.github.io/files/CV_upload.pdf
+  - /files/CV_upload.pdf
 ---
