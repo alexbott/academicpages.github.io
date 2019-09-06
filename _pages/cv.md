@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: alexbott.github.io/files/CV_upload.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
