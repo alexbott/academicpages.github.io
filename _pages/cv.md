@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - /files/CV_upload.pdf
+  - /files/CV.pdf
 ---
